@@ -18,94 +18,29 @@
 - 📚 Focused on improving coding and interview skills
 
 ---
-
 ## 🚀 Featured Project
 
-### 🎓 CollegeHub — Placement Preparation Platform
+### 💼 HireFlow — Full Stack Recruitment Platform
 
-A student-focused placement preparation platform that helps students manage:
+A full-stack recruitment platform connecting candidates and recruiters through a complete job application workflow.
 
-- 🎯 Interview Questions
-- 📋 Placement Tasks
-- 📝 Personal Notes
-- 💼 Placement Preparation
-- 🎤 Mock Interviews
-- 📊 Preparation Progress
-- ⭐ Bookmarked Questions
+### ✨ Features
+
+- 👤 Candidate & Recruiter authentication
+- 🔐 JWT-based authentication & authorization
+- 💼 Job creation and management
+- 🔎 Job browsing and job details
+- 📄 Job applications
+- 📊 Application status tracking
+- 👨‍💼 Recruiter application management
+- 🌐 Production deployment
 
 ### 🛠️ Tech Stack
 
-`HTML5` `CSS3` `JavaScript` `LocalStorage` `Git` `GitHub Pages`
+`React.js` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `REST API` `Vercel` `Render`
 
-🔗 **[Live Demo](https://vinodyadav895880-dotcom.github.io/CollegeHub/)**
+🔗 **Live Demo:** https://hire-flow-orcin.vercel.app
 
-🔗 **[GitHub Repository](https://github.com/vinodyadav895880-dotcom/CollegeHub)**
+🔗 **GitHub Repository:** https://github.com/vinodyadav895880-dotcom/HireFlow
 
----
 
-## 🛠️ Skills
-
-### Programming
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📚 Currently Learning
-
-- ⚡ Advanced JavaScript
-- 🧠 Data Structures & Algorithms
-- 💻 C++
-- 🧩 Object-Oriented Programming
-- 🤖 AI/ML
-- 🌐 Web Development
-
----
-
-## 📂 Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| 🎓 [CollegeHub](https://github.com/vinodyadav895880-dotcom/CollegeHub) | Placement preparation platform | HTML, CSS, JavaScript |
-| ❤️ [Heart Disease Prediction](https://github.com/vinodyadav895880-dotcom/Heart-Disease-Prediction) | Machine learning prediction project | Python, ML |
-| 🧮 [Scientific Calculator](https://github.com/vinodyadav895880-dotcom/Scientific-Calculator) | Scientific calculator application | Python |
-| 🐍 [Python Decision Making & Functions](https://github.com/vinodyadav895880-dotcom/Python-Decision-Making-and-Functions) | Python programming practice | Python |
-
----
-
-## 🎯 Goals
-
-- 💼 Become a skilled Software Developer
-- 🧠 Strengthen DSA and problem-solving
-- 🚀 Build real-world projects
-- 🤖 Explore AI/ML development
-- 📈 Continuously improve technical skills
-
----
-
-## 📫 Connect With Me
-
-🐙 **GitHub:** [vinodyadav895880-dotcom](https://github.com/vinodyadav895880-dotcom)
-
----
-
-<p align="center">
-
-### 🚀 Learn → Build → Practice → Improve → Grow
-
-**Thanks for visiting my profile! ⭐**
-
-</p>
