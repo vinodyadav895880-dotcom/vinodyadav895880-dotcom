@@ -19,6 +19,14 @@
 
 ---
 ## 🚀 Featured Project
+### 🎓 Campus Connect — College Placement & Internship Management System
+
+A Java-based web application that helps students explore placement and internship opportunities, apply for jobs, and track application status and interviews. Recruiters can manage job postings, review applications, shortlist candidates, and schedule interviews. Administrators can monitor placement activities through a centralized dashboard.
+
+**Tech Stack:** Java 21, JSP, Servlets, JDBC, MySQL, Bootstrap 5, Maven, Apache Tomcat 9, Docker.
+
+- 🔗 [Source Code](https://github.com/vinodyadav895880-dotcom/campus-connect)
+- 🌐 [Live Demo](https://campus-connect-production-8935.up.railway.app/campus-connect/login.jsp)
 
 ### 💼 HireFlow — Full Stack Recruitment Platform
 
